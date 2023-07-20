@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "produit": [
+    {
+      "id": 1,
+      "nomProduit": "PC Dell",
+      "prixU": 1500,
+      "quantite": 10
+    },
+    {
+      "id": 2,
+      "nomProduit": "PC HP",
+      "prixU": 1250,
+      "quantite": 15
+    },
+    {
+      "id": 3,
+      "nomProduit": "PC Bureau HP",
+      "prixU": 2500,
+      "quantite": 10
+    },
+    {
+      "id": 4,
+      "nomProduit": "Imprimante",
+      "prixU": 1450,
+      "quantite": 10
+    }
+  ]
+}
